@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "wayou.vscode-todo-highlight",
+    "formulahendry.auto-rename-tag",
+    "adpyke.vscode-sql-formatter"
+  ]
+}
